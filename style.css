@@ -1,0 +1,77 @@
+header{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    background-color: rgb(241, 222, 239);
+    border: 1px solid rgb(184, 86, 241);
+    padding: 15px;
+    text-align: center;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(66, 7, 27);
+    text-align: center;
+}
+nav a {
+    display: inline-block;
+    color: #530a3d;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#fotoIva{
+     border-style: none;
+     margin: none;
+     padding: none;
+     object-fit: contain;
+     clip-path: circle(40%);
+     shape-outside: circle(45%);
+    
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: 200;
+    margin: none;
+    line-height: 2; 
+  
+}
+#block{
+     display: flex;
+     align-items: center;
+     gap: 10px; 
+     border: 1px solid rgb(107, 11, 99);
+     padding: 10px;
+    
+}
+#block2{
+     display: flex;
+     align-items: center;
+     gap: 10px; 
+     padding: 20px;
+     margin: 20px;
+
+}
+address{
+     padding: 20px;
+     line-height: 2; 
+     padding: 20px;
+     margin: 20px;
+     margin-bottom: 250px;
+     font-size: large;
+
+}
+.gallary{
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: flex-start;
+}
+.gallary2{
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: flex-start;
+}
+footer{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center; 
+    
+   
+}
